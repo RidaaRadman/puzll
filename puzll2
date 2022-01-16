@@ -1,0 +1,137 @@
+
+Words_list = [
+     {"word": "songs" , "question": "which You listen everyday?"},
+     {"word": "nliy" , "question": "Her most important work is a movie and men.?"},
+     {"word": "Om Klthom" , "question": "The Lady of Arabic Singing?"},
+     {"word": "pm" , "question": "night time?"},
+     {"word": "gta" , "question": " still car  game?"},
+     {"word": "china" , "question": "From Southeast Asian countries?"},
+     {"word": "go" , "question": "form somewhere?"},
+     {"word": "Sun" , "question": "the biggest start in our galaxy?"},
+     {"word": "oky" , "question": "when everything is fain?"},
+     {"word": "spong pop" , "question": "Who lives in the sea and people are loved it ?"},
+]
+x=[6][6]
+input("chosse num :")
+
+if (x ==1):
+    print("Who lives in the sea and people are loved it?")
+    
+x[0][0]=input("enter char:")
+
+for x in range:
+
+    str =" ".join (x[x][0])
+    print(x) 
+    
+    
+elif x==2:
+
+print( "The Lady of Arabic Singing?")
+
+x[0][1]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[x][1])
+print(x) 
+    
+      
+elif x==3:
+
+print("__")
+
+    
+elif x==4:
+
+print("form somewhere?")
+
+x[0][3]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[x][3])
+print(x) 
+
+elif x==5:
+
+print("the biggest start in our galaxy?")
+
+x[0][4]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[x][4])
+
+print(x) 
+
+elif x==6:
+
+print("which You listen everyday?")
+
+x[1][0]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[x][0])
+print(x) 
+
+
+elif x==7:
+
+print("night time?")
+
+x[2][0]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[1][x])
+print(x) 
+
+elif x==8:
+
+print("when everything is fain?")
+
+x[3][0]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[2][x])
+print(x) 
+
+
+elif x==9:
+
+print("Her most important work is a movie and men.?")
+
+x[4][0]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[3][x])
+print(x) 
+
+elif x==10:
+
+print(" still car  game?")
+
+x[5][0]=input("enter char:")
+
+for x in range:
+
+       str =" ".join (x[4][x])
+print(x) 
+
+
+elif x==[2][3]:
+print("_")
+
+elif x==[3][4]:
+print("_")
+
+elif x==[4][5]:
+print("_")
+
+
+elif x==[5][4] and [5][5]:
+print("_")
